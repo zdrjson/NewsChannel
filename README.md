@@ -97,5 +97,5 @@
        
 
 ## Hope
-* If you find bug when used，Hope you can Issues me，Thank you or try to download the latest code of this framework to see the BUG has been fixed or not
-* If you find the function is not enough when used，Hope you can Issues me，I very much to add more useful function to this framework ，Thank you !
+* If you find the bugs when used，hope you can issues me，thank you or try to download the latest code of this framework to see the bugs has been fixed or not
+* If you find the function is not enough when used，hope you can Issues me，I am very happy to add more useful functions to this framework，thank you!
